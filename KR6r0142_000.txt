@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 破邪論
+#+DATE: 2015-08-30 22:28:57.155065
+#+PROPERTY: JUAN 0
